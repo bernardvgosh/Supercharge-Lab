@@ -64,17 +64,21 @@ Using the STEPPS framework, we create viral and meaningful content that resonate
 ## ✍️ **Content Creation**
 Leverage Sigmund’s insights to produce impactful ad copy, social posts, blogs, and articles effortlessly, using advanced AI techniques.
 
+<img src="/Images/Feature1.png">
+
 ---
 
 ## 🔮 **Ask Sigmund (Coming Soon!)**
 A predictive analytics platform to engage customers and anticipate behaviors, enhancing your marketing strategies.
+
+<img src="/Images/Feature2.png">
 
 ---
 
 ## 📞 **Contact Us**
 For project inquiries, reach us at:
 - **✉️ Email**: [contact@vgoshinfo.com](mailto:contact@vgoshinfo.com)
-- **📱 Phone**: +1 (954) 804-4785
+- **📱 Phone**: +1(954)804-4785
 
 ---
 
